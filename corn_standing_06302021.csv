@@ -1,115 +1,115 @@
-municities,total_yellow,total_white,grand_total
-Bacacay,0,0,0
-Camalig,0,0,0
-Daraga,94,0,94
-Guinobatan,160,25,185
-Jovellar,0,0,0
-Legazpi City,0,0,0
-Libon,45,11,56
-Ligao,787,45,832
-Malilipot,0,1,1
-Malinao,0,0,0
-Manito,0,0,0
-Oas,0,0,0
-Pio Duran,9,3,12
-Polangui,184,5,189
-Rapu-Rapu,0,0,0
-Sto.Domingo,0,0,0
-Tabaco City,0,30,30
-Tiwi,0,0,0
-Basud,0,0,0
-Capalonga,0,22,22
-Daet,14,14,28
-Jose Panganiban,0,0,0
-Labo,91,142,233
-Mercedes,6,9,15
-Paracale,20,2,22
-San Lorenzo Ruiz,31,2,33
-San Vicente,2,0,2
-Santa Elena,0,31,31
-Talisay,2,2,4
-Vinzons,27,0,27
-Baao,149,3,152
-Balatan,0,0,0
-Bato,0,0,0
-Bombon,0,0,0
-Buhi,0,0,0
-Bula,91,5,96
-Cabusao,0,0,0
-Calabanga,2156,0,2156
-Camaligan,0,0,0
-Canaman,0,0,0
-Caramoan,0,0,0
-DelGallego,0,0,0
-Gainza,0,0,0
-Garchitorena,0,0,0
-Goa,0,0,0
-Iriga,866,10,876
-Lagonoy,0,0,0
-Libmanan,5,17,22
-Lupi,7,1,8
-Magarao,36,0,36
-Milaor,0,0,0
-Minalabac,103,13,116
-Nabua,15,12,27
-NagaCity,285,1,286
-Ocampo,82,0,82
-Pamplona,0,0,0
-Pasacao,0,0,0
-Pili,454,0,454
-Presentacion,,,0
-Ragay,0,0,0
-Sagnay,141,0,141
-SanFernando,0,0,0
-San Jose,5,0,5
-Sipocot,8,1,9
-Siruma,0,0,0
-Tigaon,0,0,0
-Tinambac,29,0,29
-Bagamonoc,0,0,0
-Baras,0,0,0
-Bato,0,0,0
-Caramoran,0,0,0
-Gigmoto,0,0,0
-Pandan,0,0,0
-Panganiban,0,0,0
-San Andres,0,0,0
-San Miguel,0,0,0
-Viga,0,0,0
-Virac,0,0,0
-Aroroy,8,218.5,226.5
-Baleno,1,17.25,18.25
-Balud,0,5,5
-Batuan,0,0,0
-Cataingan,3,964.25,967.25
-Cawayan,51,1150,1201
-Claveria,0,0,0
-Dimasalang,8,44.75,52.75
-Esperanza,0,244,244
-Mandaon,132,303,435
-Masbate City,7,36.25,43.25
-Milagros,22,19.75,41.75
-Mobo,9,143.5,152.5
-Monreal,41,199.5,240.5
-Palanas,1,472.5,473.5
-Pio V. Corpuz,0,2,2
-Placer,0,195,195
-San Fernando,0,0,0
-San Jacinto,10,163.25,173.25
-San Pascual,,63.25,63.25
-Uson,22,188,210
-Barcelona,0,0,0
-Bulan,0,0,0
-Bulusan,0,0,0
-Casiguran,0,0,0
-Castilla,0,0,0
-Donsol,0,0,0
-Gubat,0,0,0
-Irosin,0,0,0
-Juban,0,0,0
-Magallanes,0,0,0
-Matnog,0,0,0
-Pilar,0,0,0
-PrietoDiaz,0,0,0
-Santa Magdalena,0,0,0
-Sorsogon City,0,0,0
+id,municities,total_yellow,total_white,grand_total
+72,Bacacay,0,0,0
+74,Camalig,0,0,0
+75,Daraga,94,0,94
+76,Guinobatan,160,25,185
+77,Jovellar,0,0,0
+78,Legazpi City,0,0,0
+79,Libon,45,11,56
+80,Ligao City,787,45,832
+81,Malilipot,0,1,1
+82,Malinao,0,0,0
+83,Manito,0,0,0
+84,Oas,0,0,0
+85,Pio Duran,9,3,12
+86,Polangui,184,5,189
+87,Rapu-Rapu,0,0,0
+88,Santo Domingo,0,0,0
+89,Tabaco City,0,30,30
+90,Tiwi,0,0,0
+333,Basud,0,0,0
+334,Capalonga,0,22,22
+335,Daet,14,14,28
+336,Jose Panganiban,0,0,0
+337,Labo,91,142,233
+338,Mercedes,6,9,15
+339,Paracale,20,2,22
+340,San Lorenzo Ruiz,31,2,33
+341,San Vicente,2,0,2
+342,Santa Elena,0,31,31
+343,Talisay,2,2,4
+344,Vinzons,27,0,27
+345,Baao,149,3,152
+346,Balatan,0,0,0
+348,Bato,0,0,0
+349,Bombon,0,0,0
+351,Buhi,0,0,0
+352,Bula,91,5,96
+353,Cabusao,0,0,0
+354,Calabanga,2156,0,2156
+355,Camaligan,0,0,0
+356,Canaman,0,0,0
+357,Caramoan,0,0,0
+358,Del Gallego,0,0,0
+359,Gainza,0,0,0
+360,Garchitorena,0,0,0
+361,Goa,0,0,0
+362,Iriga City,866,10,876
+363,Lagonoy,0,0,0
+364,Libmanan,5,17,22
+365,Lupi,7,1,8
+366,Magarao,36,0,36
+367,Milaor,0,0,0
+368,Minalabac,103,13,116
+369,Nabua,15,12,27
+370,Naga City,285,1,286
+371,Ocampo,82,0,82
+372,Pamplona,0,0,0
+373,Pasacao,0,0,0
+374,Pili,454,0,454
+375,Presentacion,,,0
+376,Ragay,0,0,0
+377,Sagnay,141,0,141
+378,San Fernando,0,0,0
+379,San Jose,5,0,5
+380,Sipocot,8,1,9
+381,Siruma,0,0,0
+382,Tigaon,0,0,0
+383,Tinambac,29,0,29
+406,Bagamonoc,0,0,0
+407,Baras,0,0,0
+408,Bato,0,0,0
+409,Caramoran,0,0,0
+410,Gigmoto,0,0,0
+411,Pandan,0,0,0
+412,Panganiban,0,0,0
+413,San Andres,0,0,0
+414,San Miguel,0,0,0
+415,Viga,0,0,0
+416,Virac,0,0,0
+929,Aroroy,8,218.5,226.5
+930,Baleno,1,17.25,18.25
+931,Balud,0,5,5
+932,Batuan,0,0,0
+933,Cataingan,3,964.25,967.25
+934,Cawayan,51,1150,1201
+935,Claveria,0,0,0
+936,Dimasalang,8,44.75,52.75
+937,Esperanza,0,244,244
+938,Mandaon,132,303,435
+939,Masbate City,7,36.25,43.25
+940,Milagros,22,19.75,41.75
+941,Mobo,9,143.5,152.5
+942,Monreal,41,199.5,240.5
+943,Palanas,1,472.5,473.5
+944,Pio V. Corpuz,0,2,2
+945,Placer,0,195,195
+946,San Fernando,0,0,0
+947,San Jacinto,10,163.25,173.25
+948,San Pascual,,63.25,63.25
+949,Uson,22,188,210
+1415,Barcelona,0,0,0
+1416,Bulan,0,0,0
+1417,Bulusan,0,0,0
+1418,Casiguran,0,0,0
+1419,Castilla,0,0,0
+1420,Donsol,0,0,0
+1421,Gubat,0,0,0
+1422,Irosin,0,0,0
+1423,Juban,0,0,0
+1424,Magallanes,0,0,0
+1425,Matnog,0,0,0
+1426,Pilar,0,0,0
+1427,PrietoDiaz,0,0,0
+1428,Santa Magdalena,0,0,0
+1429,Sorsogon City,0,0,0
